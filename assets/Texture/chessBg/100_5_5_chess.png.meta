@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "d98e5ab3-4594-48e1-8f74-36ac5196492f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "100_5_5_chess": {
+      "ver": "1.0.3",
+      "uuid": "11606004-6158-43f7-8cb0-15ed2d4c1457",
+      "rawTextureUuid": "d98e5ab3-4594-48e1-8f74-36ac5196492f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 600,
+      "height": 600,
+      "rawWidth": 600,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

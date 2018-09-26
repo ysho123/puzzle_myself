@@ -1,0 +1,42 @@
+level 1 :
+	"detailInfo" : {
+                "xNum" : 5 , 	
+                "yNum" : 5 , 
+                "picWidth" : 100 , 
+                "picPieceQuestion" :  [[6,11,12,17]], 
+                "staticPoint":[0,1,2,3,4,5,7,8,9,10,13,14,15,16,18,19,20,21,22,23,24], 
+                "sourceUrl" : "oss://xcx-base/puzzleGame/AnimClipSource/level1/" , 
+                "framesLength" : 54 
+                "playSpeed" : 30
+            },
+	"id" : 1 ,
+	"levelName" : '海贼王'
+	
+level 2 :
+	"detailInfo" : {
+                "xNum" : 5 , 	
+                "yNum" : 5 , 
+                "picWidth" : 100 , 
+                "picPieceQuestion" :  [[1,5,6],[10,11,15,20],[16,21,22,23,18],[17,12,13],[2,3,4,7],[24,19,14,9]], 
+                "staticPoint":[0,8], 
+                "sourceUrl" : "oss://xcx-base/puzzleGame/AnimClipSource/level2/" , 
+                "framesLength" : 81 
+                "playSpeed" : 45
+            },
+	"id" : 2 ,
+	"levelName" : '蜡笔小新'
+	
+level 3 :
+	"detailInfo" : {
+                "xNum" : 5 , 	
+                "yNum" : 7 , 
+                "picWidth" : 80 , 
+                "picPieceQuestion" :  [[0,1,6,7],[5,10,15,16,11],[3,8,9,13],[32,33,34,29,24,19,14],[17,18,22,23,27,28],[30,25,20,21,26]], 
+                "staticPoint":[2,4,31], 
+                "sourceUrl" : "oss://xcx-base/puzzleGame/AnimClipSource/level3/" , 
+                "framesLength" : 160 
+                "playSpeed" : 40
+            },
+	"id" : 3 ,
+	"levelName" : '名侦探柯南 '
+	
